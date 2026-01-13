@@ -3,8 +3,9 @@ Repositgory that implement the UNOQ DoubleBridge.
 
 ## Install script
 ```
+mkdir -p /home/arduino/ArduinoApps/DoubleBridge && \
 curl -L https://github.com/ffich/UNOQ_DoubleBridge/archive/refs/heads/main.tar.gz \
-| tar -xz --strip-components=2 -C /home/arduino/ArduinoApps UNOQ_DoubleBridge-main/DoubleBridge
+| tar -xz --strip-components=2 -C /home/arduino/ArduinoApps/DoubleBridge UNOQ_DoubleBridge-main/DoubleBridge
 ```
 
 ## UNOQ TCP Control Server + Node-RED Integration
