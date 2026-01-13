@@ -269,10 +269,10 @@ production-safe**:
 
 Each command is encapsulated inside **dedicated subflows**:
 
--   ✅ Set IO via TCP\
--   ✅ Get IO via TCP\
--   ✅ Set All IO via TCP\
--   ✅ LED Matrix Print via TCP\
+-   ✅ Set IO via TCP
+-   ✅ Get IO via TCP
+-   ✅ Set All IO via TCP
+-   ✅ LED Matrix Print via TCP
 -   ✅ Get Analog via TCP
 
 <img width="197" height="385" alt="image" src="https://github.com/user-attachments/assets/92a98a7e-764a-42c9-ab67-3a24fbb99cea" />
