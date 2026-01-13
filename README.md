@@ -320,14 +320,14 @@ To add a new feature:
 This project provides a **clean, scalable, and industrial-grade control
 bridge** between:
 
--   **Automation layer:** Node-RED\
--   **Control layer:** Python App Lab\
+-   **Automation layer:** Node-RED
+-   **Control layer:** Python App Lab
 -   **Hardware layer:** Arduino UNO Q
 
 It is designed to be:
 
--   ✅ Reliable\
--   ✅ Scalable\
--   ✅ Maintainable\
+-   ✅ Reliable
+-   ✅ Scalable
+-   ✅ Maintainable
 -   ✅ Ready for dashboards and remote control
 
