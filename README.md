@@ -1,5 +1,5 @@
 # UNOQ DoubleBridge
-Repositgory that implement the UNOQ DoubleBridge.
+Repository that implement the UNO Q DoubleBridge.
 
 ## Install script
 ```
